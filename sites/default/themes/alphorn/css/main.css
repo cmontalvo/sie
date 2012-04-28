@@ -1,0 +1,171 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+  padding: 0pt;
+  margin: 0pt;
+  color: black;
+  font-family: trebuchet MS,arial;
+}
+#zone-branding {
+/*  background-image: url('../images/background.png');
+  background-repeat: repeat-x;
+  background-position-y: 5px;*/
+}
+h1, h2, h3, h4 {
+}
+a {
+  color: #49C0E4;
+}
+p {
+  line-height: normal;
+  margin: 10px 0pt;
+  font-size: 14px;
+}
+.section {
+  margin: 0;
+}
+.content {
+  color: #FFFFFF;
+}
+.logo-espe {
+ float: right;
+  margin-right: 20px; 
+}
+.site-slogan {
+  width: 700px;
+  margin-left: 50px;
+}
+.site-slogan span.top {
+  float: left;
+  background-image: url('../images/sie/semana.png');
+  width: 700px;
+  height: 80px;
+}
+.site-slogan span.right {
+  background-image: url('../images/sie/espe2012.png');
+  float: right;
+  height: 30px;
+  width: 100px;
+}
+.fieldset-legend {
+  font-size: 15px;
+}
+.view-homepage .bloque-post {
+  border-bottom: 1px solid #6E6432;
+  color: #FFFFFF;
+  display: inline-block;
+  margin-bottom: 19px;
+  padding-bottom: 10px;
+  width: 100%;
+}
+.view-homepage .bloque-post .left {
+  float: left;
+  margin-right: 10px;
+  width: 301px;
+}
+.view-homepage .bloque-post .right {
+
+}
+.bloque-post .right h1 {
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #49C0E4;
+  font-size: 33px;
+}
+#section-footer {
+  border-top: 5px solid #847532;
+  width: 100%;
+}
+#section-footer #block-block-3 {
+  margin: 0 auto;
+}
+#section-footer #block-block-3 div.content {
+
+}
+#section-footer #block-block-3 div.content .footer-sie {
+  display: table;
+  margin: 0 auto;
+}
+#section-footer #block-block-3 div.content .footer-sie div {
+  display: inline-block;
+  margin-right: 60px;
+  padding-bottom: 25px;
+  background-repeat: no-repeat;
+}
+#section-footer #block-block-3 div.content .footer-sie .logo1 {
+  background-image: url("../images/logo-mcpec.png");
+  background-position: center top;
+  height: 70px;
+  margin-top: 10px;
+  width: 143px;
+}
+#section-footer #block-block-3 div.content .footer-sie .logo2 {
+  background-image: url("../images/logo-inova.png");
+  background-position: center top;
+  margin-top: 10px;
+  height: 33px;
+  width: 152px;
+}
+#section-footer #block-block-3 div.content .footer-sie .logo3 {
+  background-image: url("../images/logo-capeipi.png");
+  background-position: center top;
+  height: 68px;
+  margin-top: 13px;
+  width: 193px;
+}
+#section-footer #block-block-3 div.content .footer-sie .logo4 {
+  background-image: url("../images/logo-ceac.png");
+  background-position: center top;
+  height: 74px;
+  margin-top: 42px;
+  margin-right: 0;
+  width: 71px;
+}
+#section-footer #block-block-3 div.content .direccion {
+  text-align: center;
+  font-size: 10px;
+  margin-bottom: 20px;
+}
+/*HOME PAGE*/
+.view-id-homepage .bloque-post .scroll {
+  width: 800px;
+  padding-right: 25px;
+  overflow: auto;
+  height: 325px;
+}
+/*-----------------*/
+/*PROGRAMA*/
+#node-programa-3 table td {
+  border: 1px solid #FFF;
+  background-color: #071832;
+}
+#node-programa-3 table td[bgcolor=bold] {
+  background-color: #1C4499;
+}
+#node-programa-3 table td[bgcolor=lightbold] {
+  background-color: #326CB5;
+}
+#node-programa-3 table td[bgcolor=greenbold] {
+  background-color: #BFD453;
+}
+#node-programa-3 table td[bgcolor=contestbold] {
+  background-color: #562900;
+}
+/*-----------------*/
+/*WEBFORMS*/
+.webform-component-fieldset {
+  border: 1px solid #847532;
+  padding-left: 15px;
+}
+.webform-component-fieldset .form-text,
+.webform-component-fieldset .form-radio {
+  margin-left: 15px;
+}
+/*-----------------*/
+/*INSCRIPCIONES*/
+.webform-client-form .webform-component-fieldset {
+  width: 525px;
+  float: left;
+  margin-right: 15px;
+}
+/*-----------------*/
