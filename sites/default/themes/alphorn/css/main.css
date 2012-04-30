@@ -37,15 +37,16 @@ p {
 }
 .site-slogan span.top {
   float: left;
-  background-image: url('../images/sie/semana.png');
-  width: 700px;
-  height: 80px;
+  background-image: url('../images/sie/logo.png');
+  width: 665px;
+  height: 129px;
+  margin-left: 45px;
 }
 .site-slogan span.right {
-  background-image: url('../images/sie/espe2012.png');
+/*  background-image: url('../images/sie/espe2012.png');
   float: right;
   height: 30px;
-  width: 100px;
+  width: 100px;*/
 }
 .fieldset-legend {
   font-size: 15px;
@@ -128,7 +129,6 @@ p {
 }
 /*HOME PAGE*/
 .view-id-homepage .bloque-post .scroll {
-  width: 800px;
   padding-right: 25px;
   overflow: auto;
   height: 325px;
@@ -165,7 +165,12 @@ p {
 /*INSCRIPCIONES*/
 .webform-client-form .webform-component-fieldset {
   width: 525px;
-  float: left;
   margin-right: 15px;
+}
+/*-----------------*/
+/*MENU*/
+.block-system-main-menu .block-title
+{
+  
 }
 /*-----------------*/

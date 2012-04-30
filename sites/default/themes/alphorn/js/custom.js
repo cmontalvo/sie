@@ -27,6 +27,9 @@
           });
         });
       });
+      
+      //Change Menu title
+      $('.block-system-main-menu .block-title').html('Navegación');
     }
   };
 })(jQuery);
