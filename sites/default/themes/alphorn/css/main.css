@@ -135,21 +135,28 @@ p {
 }
 /*-----------------*/
 /*PROGRAMA*/
+#node-programa-3 table {
+  color: #000000;
+  text-align: center;
+}
 #node-programa-3 table td {
-  border: 1px solid #FFF;
-  background-color: #071832;
+  border: 2px solid #000000;
+  background-color: #00a9e2;
 }
 #node-programa-3 table td[bgcolor=bold] {
-  background-color: #1C4499;
+  background-color: #d1de0b;
 }
 #node-programa-3 table td[bgcolor=lightbold] {
-  background-color: #326CB5;
+  background-color: #62cddd;
 }
 #node-programa-3 table td[bgcolor=greenbold] {
-  background-color: #BFD453;
+  background-color: #93d051;
 }
 #node-programa-3 table td[bgcolor=contestbold] {
-  background-color: #562900;
+  background-color: #ffc020;
+}
+#node-programa-3 table td[bgcolor=white] {
+  background-color: #FFFFFF;
 }
 /*-----------------*/
 /*WEBFORMS*/
